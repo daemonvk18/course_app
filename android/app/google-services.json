@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484502784606",
+    "project_id": "flutter-backend-28a87",
+    "storage_bucket": "flutter-backend-28a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484502784606:android:ae62ee59bc99c5fa9302cf",
+        "android_client_info": {
+          "package_name": "com.example.course_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484502784606-v9d3ktfie06lvbjve42eg09f5qp3jd8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmqvPllnvTLny3XD65Gbp3hhNzbI0Go5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484502784606-v9d3ktfie06lvbjve42eg09f5qp3jd8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
